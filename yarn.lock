@@ -776,7 +776,7 @@
   integrity sha1-+GSuhQBND8q29QvpFBxNo2jRZWo=
   dependencies:
     exec-sh "^0.3.2"
-    minimist "^1.2.0"
+    minimist "^1.2.2"
 
 "@hapi/address@2.x.x":
   version "2.1.4"
